@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\andin\documents\homework c\sdasd\main.cpp
+	<iostream>
+
+1558228019 source:c:\users\andin\documents\programming\homeworke c++\theaterprogram in c++\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
